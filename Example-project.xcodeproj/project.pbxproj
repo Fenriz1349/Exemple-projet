@@ -14,6 +14,7 @@
 		42A1C1FE2AD8237900370826 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 42A1C1FD2AD8237900370826 /* .gitignore */; };
 		42A1C2062AD8486F00370826 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A1C2052AD8486F00370826 /* ViewModel.swift */; };
 		42A1C2082AD84B3A00370826 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A1C2072AD84B3A00370826 /* Task.swift */; };
+		686A6BCD2C9D75E30015D7DA /* new.swift in Sources */ = {isa = PBXBuildFile; fileRef = 686A6BCC2C9D75E30015D7DA /* new.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		42A1C1FD2AD8237900370826 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		42A1C2052AD8486F00370826 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		42A1C2072AD84B3A00370826 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		686A6BCC2C9D75E30015D7DA /* new.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				42A1C1ED2AD56FA100370826 /* Example_projectApp.swift */,
 				42A1C1F12AD56FA300370826 /* Assets.xcassets */,
 				42A1C1F32AD56FA300370826 /* Preview Content */,
+				686A6BCC2C9D75E30015D7DA /* new.swift */,
 			);
 			path = "Example-project";
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				42A1C1F02AD56FA100370826 /* ContentView.swift in Sources */,
 				42A1C2062AD8486F00370826 /* ViewModel.swift in Sources */,
 				42A1C1EE2AD56FA100370826 /* Example_projectApp.swift in Sources */,
+				686A6BCD2C9D75E30015D7DA /* new.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
